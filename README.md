@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm J B Amarjith
 
 🔐 **Cybersecurity Enthusiast | Penetration Tester | Offensive Security Learner**
 
@@ -46,24 +46,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-![GitHub streak](https://streak-stats.demolab.com?user=[your-username]&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [www.linkedin.com/in/amarjith-jb-]  
-- 📧 Email: [jbamarjith@gmail.com]  
-
----
-
-## ⚠️ Disclaimer
-> This profile is for **educational purposes only**. All testing is performed on authorized systems.
+- 💼 LinkedIn: https://www.linkedin.com/in/amarjith-jb-  
+- 📧 Email: jbamarjith@gmail.com  
 
 ---
 
