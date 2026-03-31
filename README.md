@@ -39,13 +39,6 @@
 
 ---
 
-## 📂 Projects
-- 🔹 **Vulnerability Scanner (Python)** – Basic scanner for detecting common web vulnerabilities  
-- 🔹 **Recon Automation Tool** – Script to automate subdomain & port scanning  
-- 🔹 **CTF Writeups** – Documenting solved machines and challenges  
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/amarjith-jb-  
 - 📧 Email: jbamarjith@gmail.com  
